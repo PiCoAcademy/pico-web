@@ -25,16 +25,16 @@ export async function submitRfq(payload: RfqPayload): Promise<{ ok: boolean; id?
       const { data, error } = await (db as any)
         .from('rfq_requests')
         .insert({
-          company_name: payload.company,
-          contact_name: payload.name,
-          contact_email: payload.email,
-          contact_phone: payload.phone,
-          sector:        payload.sector,
-          project_type:  payload.type,
-          brief:         payload.brief,
-          budget_range:  payload.budget,
-          timeline:      payload.timeline,
-          status:        'new',
+          company:      payload.company,
+          name:         payload.name,
+          email:        payload.email,
+          phone:        payload.phone,
+          sector:       payload.sector,
+          project_type: payload.type,
+          brief:        payload.brief,
+          budget:       payload.budget,
+          timeline:     payload.timeline,
+          status:       'new',
         })
         .select('id')
         .single()
