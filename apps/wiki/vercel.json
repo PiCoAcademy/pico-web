@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd ../.. && pnpm --filter @pico/app-wiki build",
+  "installCommand": "cd ../.. && pnpm install",
+  "outputDirectory": ".next"
+}
