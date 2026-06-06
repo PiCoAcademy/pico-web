@@ -5,4 +5,5 @@ export default defineCliConfig({
     projectId: '19rehz5c',
     dataset: 'production',
   },
+  studioHost: 'picoma',
 })

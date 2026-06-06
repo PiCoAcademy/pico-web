@@ -10,7 +10,7 @@ export default defineType({
     defineField({ name: 'order', title: 'Order', type: 'number' }),
     defineField({ name: 'durationMinutes', title: 'Duration (minutes)', type: 'number' }),
     defineField({ name: 'videoUrl', title: 'Video URL (YouTube / Vimeo)', type: 'url' }),
-    defineField({ name: 'content', title: 'Content', type: 'array', of: [{ type: 'block' }, { type: 'code' }] }),
+    defineField({ name: 'content', title: 'Content', type: 'array', of: [{ type: 'block' }] }),
     defineField({ name: 'free', title: 'Free Preview', type: 'boolean', initialValue: false }),
   ],
   preview: { select: { title: 'title', subtitle: 'order' } },
