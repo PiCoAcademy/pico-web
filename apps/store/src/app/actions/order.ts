@@ -37,13 +37,16 @@ export async function createOrder(
       const { data: order, error: orderErr } = await db
         .from('orders')
         .insert({
-          contact_email:  shipping.email,
-          contact_phone:  shipping.phone,
-          shipping_name:  `${shipping.firstName} ${shipping.lastName}`,
-          shipping_address: shipping.address,
-          shipping_city:  shipping.city,
-          total_mad:      totalMad,
-          status:         'pending',
+          total_mad: totalMad,
+          status:    'pending',
+          shipping:  {
+            firstName: shipping.firstName,
+            lastName:  shipping.lastName,
+            email:     shipping.email,
+            phone:     shipping.phone,
+            address:   shipping.address,
+            city:      shipping.city,
+          },
         })
         .select('id')
         .single()
@@ -55,8 +58,9 @@ export async function createOrder(
       const orderItems = items.map((i) => ({
         order_id:   orderId,
         product_id: i.id,
-        qty:        i.qty,
-        unit_price: i.priceMad,
+        name:       i.name,
+        price_mad:  i.priceMad,
+        quantity:   i.qty,
       }))
       await db.from('order_items').insert(orderItems)
     } else {
