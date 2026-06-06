@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "courses": "Courses",
+    "paths": "Learning Paths",
+    "blog": "Blog",
+    "login": "Sign In",
+    "dashboard": "My Dashboard"
+  },
+  "hero": {
+    "eyebrow": "PICO Academy",
+    "headline": "Learn\nelectronics\nand AI.",
+    "sub": "Online courses designed by Moroccan engineers to master electronics, embedded code, and artificial intelligence.",
+    "ctaPrimary": "Explore Courses",
+    "ctaSecondary": "Learn More"
+  },
+  "stats": {
+    "courses": "Courses",
+    "students": "Students",
+    "hours": "Hours of Content",
+    "mentors": "Mentors"
+  },
+  "courses": {
+    "title": "Our Courses",
+    "sub": "Structured paths for all skill levels.",
+    "allLevels": "All Levels",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "enroll": "Enroll",
+    "preview": "Free Preview",
+    "lessons": "lessons",
+    "hours": "hours",
+    "students": "students",
+    "empty": "No courses found."
+  },
+  "course": {
+    "overview": "Overview",
+    "curriculum": "Curriculum",
+    "instructor": "Instructor",
+    "reviews": "Reviews",
+    "enroll": "Enroll Now",
+    "enrolled": "Already Enrolled",
+    "free": "Free",
+    "lessons": "lessons",
+    "duration": "duration",
+    "level": "level",
+    "certificate": "Certificate Included"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "courses": "My Courses",
+    "progress": "Progress",
+    "certificates": "My Certificates",
+    "continue": "Continue",
+    "complete": "Complete",
+    "noCourses": "No courses in progress."
+  },
+  "paths": {
+    "title": "Learning Paths",
+    "sub": "Guided sequences to reach your goals."
+  },
+  "blog": {
+    "title": "Articles & Tutorials",
+    "sub": "Deepen your knowledge with our technical articles.",
+    "readMore": "Read Article",
+    "empty": "Articles coming soon."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "nav": { "products": "Products", "tutorials": "Tutorials", "picoblocks": "PiCoBlocks" },
+  "hero": {
+    "eyebrow": "Educational Electronics in Morocco",
+    "headline": "Learn.\nCreate.\nInnovate.",
+    "sub": "Discover PICO educational kits — from microcontrollers to robots, everything you need to learn electronics and programming.",
+    "ctaPrimary": "View Products",
+    "ctaSecondary": "Free Tutorials"
+  },
+  "products": {
+    "title": "Our Products",
+    "sub": "Educational kits designed for Moroccan high schools, universities, and makers.",
+    "store": "Order on the Store",
+    "specs": "Specifications",
+    "downloads": "Downloads",
+    "relatedTitle": "Related Products",
+    "empty": "Product pages coming soon."
+  },
+  "tutorials": {
+    "title": "Tutorials",
+    "sub": "Step-by-step guides to get started with every PICO product.",
+    "empty": "Tutorials coming soon."
+  },
+  "picoblocks": {
+    "eyebrow": "Visual IDE",
+    "headline": "PiCoBlocks",
+    "sub": "A block-based programming environment designed to introduce coding from scratch, no prerequisites needed.",
+    "features": {
+      "blocks": { "title": "Block Programming", "desc": "Drag-and-drop interface inspired by Scratch, tailored for PICO devices." },
+      "arduino": { "title": "Arduino Generation", "desc": "Every block program generates readable Arduino C++ code in real time." },
+      "offline": { "title": "Offline Mode", "desc": "Desktop app for Windows/Mac/Linux — works without internet in the classroom." },
+      "upload": { "title": "Direct Upload", "desc": "One-click upload to PiCoBlocks, UnoCore, and PiCoBOT." }
+    },
+    "download": "Download PiCoBlocks",
+    "source": "Source Code (GitHub)"
+  },
+  "contact": {
+    "title": "Equip Your Institution",
+    "sub": "Teacher pricing, class kits, bulk orders — get in touch.",
+    "cta": "Contact the Education Team"
+  }
+}

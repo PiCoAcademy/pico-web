@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "projects": "Projects",
+    "blog": "Blog",
+    "wiki": "Wiki",
+    "courses": "Courses",
+    "store": "Store",
+    "contact": "Contact",
+    "rfq": "Request a Quote"
+  },
+  "cta": {
+    "learnMore": "Learn more",
+    "contactUs": "Contact us",
+    "requestQuote": "Request a quote",
+    "buyNow": "Buy now",
+    "addToCart": "Add to cart",
+    "enroll": "Enroll",
+    "download": "Download",
+    "viewAll": "View all"
+  },
+  "footer": {
+    "allRights": "All rights reserved.",
+    "group": "PICO Group"
+  },
+  "status": {
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "lowStock": "Low stock",
+    "free": "Free",
+    "loading": "Loading…",
+    "error": "An error occurred"
+  },
+  "form": {
+    "required": "Required",
+    "email": "Email address",
+    "name": "Full name",
+    "company": "Company",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success": "Message sent successfully!",
+    "error": "Error sending. Please try again."
+  },
+  "lang": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

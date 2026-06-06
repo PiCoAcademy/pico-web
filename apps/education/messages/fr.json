@@ -1,0 +1,42 @@
+{
+  "nav": { "products": "Produits", "tutorials": "Tutoriels", "picoblocks": "PiCoBlocks" },
+  "hero": {
+    "eyebrow": "Électronique Éducative au Maroc",
+    "headline": "Apprendre.\nCréer.\nInnover.",
+    "sub": "Découvrez les kits éducatifs PICO — des microcontrôleurs aux robots, tout le matériel pour apprendre l'électronique et la programmation.",
+    "ctaPrimary": "Voir les produits",
+    "ctaSecondary": "Tutoriels gratuits"
+  },
+  "products": {
+    "title": "Nos Produits",
+    "sub": "Kits éducatifs conçus pour les lycées, les universités et les makers marocains.",
+    "store": "Commander sur le Store",
+    "specs": "Spécifications",
+    "downloads": "Téléchargements",
+    "relatedTitle": "Produits similaires",
+    "empty": "Les fiches produits arrivent bientôt."
+  },
+  "tutorials": {
+    "title": "Tutoriels",
+    "sub": "Guides pas-à-pas pour démarrer avec chaque produit PICO.",
+    "empty": "Les tutoriels arrivent bientôt."
+  },
+  "picoblocks": {
+    "eyebrow": "IDE Visuel",
+    "headline": "PiCoBlocks",
+    "sub": "Un environnement de programmation par blocs conçu pour introduire le code à partir de zéro, sans prérequis.",
+    "features": {
+      "blocks": { "title": "Programmation par blocs", "desc": "Interface glisser-déposer inspirée de Scratch, adaptée aux appareils PICO." },
+      "arduino": { "title": "Génération Arduino", "desc": "Chaque programme en blocs génère du code Arduino C++ lisible en temps réel." },
+      "offline": { "title": "Mode hors-ligne", "desc": "Application desktop Windows/Mac/Linux — fonctionne sans internet en classe." },
+      "upload": { "title": "Upload direct", "desc": "Téléversement en un clic vers PiCoBlocks, UnoCore et PiCoBOT." }
+    },
+    "download": "Télécharger PiCoBlocks",
+    "source": "Code source (GitHub)"
+  },
+  "contact": {
+    "title": "Équiper votre établissement",
+    "sub": "Tarifs enseignants, kits classe, commandes en gros — contactez-nous.",
+    "cta": "Contacter l'équipe Education"
+  }
+}

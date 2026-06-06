@@ -1,0 +1,13 @@
+{
+  "name": "@pico/i18n",
+  "version": "0.1.0",
+  "exports": {
+    ".":      "./src/index.ts",
+    "./fr/*": "./src/locales/fr/*.json",
+    "./en/*": "./src/locales/en/*.json",
+    "./ar/*": "./src/locales/ar/*.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}

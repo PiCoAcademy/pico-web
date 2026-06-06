@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Backgrounds */
+  --bg-base:       #030712;
+  --bg-card:       #0D1117;
+  --bg-card-2:     #111827;
+  --bg-hover:      #1C2333;
+
+  /* Borders */
+  --border:        rgba(255, 255, 255, 0.07);
+  --border-subtle: rgba(255, 255, 255, 0.04);
+  --border-strong: rgba(255, 255, 255, 0.14);
+
+  /* Text */
+  --text-primary:  #F1F5F9;
+  --text-muted:    #64748B;
+  --text-muted-2:  #94A3B8;
+  --text-inverse:  #030712;
+
+  /* Semantic */
+  --success:       #10B981;
+  --warning:       #F59E0B;
+  --error:         #EF4444;
+  --info:          #22D3EE;
+}
+
+/* Brand accent overrides per sub-site */
+[data-brand="education"] {
+  --accent:    #2563EB;
+  --accent-lt: #3B82F6;
+  --accent-bg: rgba(37, 99, 235, 0.08);
+  --accent-bd: rgba(37, 99, 235, 0.20);
+}
+
+[data-brand="industrial"] {
+  --accent:    #F97316;
+  --accent-lt: #FB923C;
+  --accent-bg: rgba(249, 115, 22, 0.08);
+  --accent-bd: rgba(249, 115, 22, 0.20);
+}
+
+[data-brand="academy"] {
+  --accent:    #7C3AED;
+  --accent-lt: #A78BFA;
+  --accent-bg: rgba(124, 58, 237, 0.08);
+  --accent-bd: rgba(124, 58, 237, 0.20);
+}
+
+[data-brand="store"] {
+  --accent:    #10B981;
+  --accent-lt: #34D399;
+  --accent-bg: rgba(16, 185, 129, 0.08);
+  --accent-bd: rgba(16, 185, 129, 0.20);
+}
+
+[data-brand="wiki"] {
+  --accent:    #CFA97B;
+  --accent-lt: #E5C99A;
+  --accent-bg: rgba(207, 169, 123, 0.08);
+  --accent-bd: rgba(207, 169, 123, 0.20);
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    background-color: var(--bg-base);
+    color: var(--text-primary);
+  }
+}

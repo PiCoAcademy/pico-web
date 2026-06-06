@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "courses": "Formations",
+    "paths": "Parcours",
+    "blog": "Blog",
+    "login": "Se connecter",
+    "dashboard": "Mon espace"
+  },
+  "hero": {
+    "eyebrow": "PICO Academy",
+    "headline": "Apprenez\nl'électronique\net l'IA.",
+    "sub": "Des formations en ligne conçues par des ingénieurs marocains, pour maîtriser l'électronique, le code embarqué et l'intelligence artificielle.",
+    "ctaPrimary": "Explorer les formations",
+    "ctaSecondary": "En savoir plus"
+  },
+  "stats": {
+    "courses": "Formations",
+    "students": "Étudiants",
+    "hours": "Heures de contenu",
+    "mentors": "Mentors"
+  },
+  "courses": {
+    "title": "Nos Formations",
+    "sub": "Des parcours structurés pour tous les niveaux.",
+    "allLevels": "Tous niveaux",
+    "beginner": "Débutant",
+    "intermediate": "Intermédiaire",
+    "advanced": "Avancé",
+    "enroll": "S'inscrire",
+    "preview": "Aperçu gratuit",
+    "lessons": "leçons",
+    "hours": "heures",
+    "students": "étudiants",
+    "empty": "Aucune formation trouvée."
+  },
+  "course": {
+    "overview": "Vue d'ensemble",
+    "curriculum": "Programme",
+    "instructor": "Formateur",
+    "reviews": "Avis",
+    "enroll": "S'inscrire maintenant",
+    "enrolled": "Déjà inscrit",
+    "free": "Gratuit",
+    "lessons": "leçons",
+    "duration": "durée",
+    "level": "niveau",
+    "certificate": "Certificat inclus"
+  },
+  "dashboard": {
+    "title": "Mon Espace",
+    "courses": "Mes formations",
+    "progress": "Progression",
+    "certificates": "Mes certificats",
+    "continue": "Continuer",
+    "complete": "Terminé",
+    "noCourses": "Aucune formation en cours."
+  },
+  "paths": {
+    "title": "Parcours d'apprentissage",
+    "sub": "Des séquences guidées pour atteindre vos objectifs."
+  },
+  "blog": {
+    "title": "Articles & Tutoriels",
+    "sub": "Approfondissez vos connaissances avec nos articles techniques.",
+    "readMore": "Lire l'article",
+    "empty": "Articles à venir."
+  }
+}

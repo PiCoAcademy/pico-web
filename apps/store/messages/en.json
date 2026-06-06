@@ -1,0 +1,10 @@
+{
+  "nav": { "products": "Products", "cart": "Cart", "account": "My Account" },
+  "hero": { "eyebrow": "PICO Store", "headline": "All the hardware\nto create.", "sub": "Arduino kits, robots, IoT modules — delivered anywhere in Morocco.", "cta": "View Products" },
+  "products": { "title": "Our Products", "sub": "Educational kits, industrial modules and accessories.", "filter": "Filter", "sort": "Sort", "addToCart": "Add to Cart", "outOfStock": "Out of Stock", "empty": "No products found." },
+  "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "inStock": "In Stock", "lowStock": "Low Stock", "outOfStock": "Out of Stock", "qty": "Quantity", "specs": "Specifications", "reviews": "Reviews", "related": "You Might Also Like" },
+  "cart": { "title": "Your Cart", "empty": "Your cart is empty.", "subtotal": "Subtotal", "shipping": "Shipping", "free": "Free", "total": "Total", "checkout": "Proceed to Checkout", "continueShopping": "Continue Shopping" },
+  "checkout": { "title": "Checkout", "shipping": "Shipping Address", "firstName": "First Name", "lastName": "Last Name", "address": "Address", "city": "City", "phone": "Phone", "email": "Email", "payment": "Payment", "placeOrder": "Place Order", "processing": "Processing…" },
+  "success": { "title": "Order Confirmed!", "sub": "You will receive a confirmation email at the address provided.", "orderNumber": "Order Number", "trackOrder": "Track My Order", "continueShopping": "Continue Shopping" },
+  "account": { "orders": "My Orders", "profile": "My Profile", "logout": "Sign Out" }
+}

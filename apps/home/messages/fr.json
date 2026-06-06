@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "about": "À propos",
+    "contact": "Contact",
+    "switchLang": "EN"
+  },
+  "hero": {
+    "eyebrow": "Groupe PICO — Maroc",
+    "title": "De l'idée à la production.",
+    "description": "Nous formons les ingénieurs de demain, concevons des systèmes embarqués sur mesure et fournissons les outils pour réaliser vos projets.",
+    "ctaPrimary": "Demander un devis",
+    "ctaSecondary": "Découvrir nos produits"
+  },
+  "units": {
+    "title": "Nos pôles d'activité",
+    "education": {
+      "name": "PICO Education",
+      "description": "Kits pédagogiques, tutoriels et outils pour enseigner l'électronique et la programmation.",
+      "cta": "Explorer"
+    },
+    "industrial": {
+      "name": "PICO Industrial",
+      "description": "Conception PCB, systèmes embarqués, automatisation industrielle et ingénierie électronique.",
+      "cta": "Nos solutions"
+    },
+    "academy": {
+      "name": "PICO Academy",
+      "description": "Formations en ligne certifiantes — du débutant à l'ingénieur embarqué.",
+      "cta": "Voir les cours"
+    },
+    "store": {
+      "name": "PICO Store",
+      "description": "Achetez nos kits et modules directement, livrés au Maroc et à l'international.",
+      "cta": "Boutique"
+    },
+    "wiki": {
+      "name": "PICO Wiki",
+      "description": "Documentation technique, fiches pinout, bibliothèques et guides de référence.",
+      "cta": "Documentation"
+    }
+  },
+  "stats": {
+    "years": "ans d'expérience",
+    "clients": "clients industriels",
+    "projects": "projets livrés",
+    "students": "élèves formés"
+  },
+  "trust": {
+    "title": "Ils nous font confiance"
+  },
+  "contact": {
+    "eyebrow": "Parlons de votre projet",
+    "title": "Une idée ? Un besoin ?",
+    "description": "Que ce soit pour une solution industrielle, une commande de kits scolaires ou une question technique, nous répondons sous 48h.",
+    "cta": "Nous contacter"
+  },
+  "about": {
+    "eyebrow": "Notre histoire",
+    "title": "Un groupe marocain au service de l'ingénierie.",
+    "p1": "PICO est né d'une conviction : le Maroc a besoin d'une plateforme locale qui forme, équipe et accompagne ses ingénieurs, enseignants et entreprises — en français, en arabe, avec des prix adaptés.",
+    "p2": "Depuis plus de 7 ans, nous combinons expertise en électronique embarquée, pédagogie active et distribution directe de matériel pour offrir un écosystème complet — du kit Arduino en classe jusqu'au système de contrôle industriel.",
+    "valuesTitle": "Nos valeurs",
+    "values": {
+      "precision": { "title": "Précision", "desc": "Des specs réelles, des délais tenus, du code qui tourne." },
+      "pedagogy":  { "title": "Pédagogie", "desc": "Expliquer, documenter, former — pas seulement livrer." },
+      "local":     { "title": "Ancrage local", "desc": "Marocain de conception, international de standard." }
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Écrivez-nous",
+    "description": "Remplissez le formulaire ci-dessous, ou envoyez-nous directement un e-mail à info@pico.ma.",
+    "form": {
+      "name": "Nom complet",
+      "email": "E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "sending": "Envoi…",
+      "success": "Message envoyé ! Nous vous répondrons sous 48h.",
+      "error": "Erreur lors de l'envoi. Réessayez ou écrivez directement à info@pico.ma."
+    }
+  }
+}

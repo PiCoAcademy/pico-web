@@ -1,0 +1,24 @@
+{
+  "nav": { "search": "Rechercher" },
+  "home": {
+    "title": "Documentation PICO",
+    "sub": "Guides techniques, pinouts, exemples de code et références pour tous les produits PICO.",
+    "search": "Rechercher dans la documentation…",
+    "sections": {
+      "getting-started": { "title": "Démarrage rapide", "desc": "Premiers pas avec chaque produit PICO." },
+      "hardware": { "title": "Matériel", "desc": "Pinouts, schémas, caractéristiques électriques." },
+      "software": { "title": "Logiciel", "desc": "Bibliothèques Arduino, MicroPython, drivers." },
+      "picoblocks": { "title": "PiCoBlocks", "desc": "Référence des blocs et exemples de programmes." },
+      "faq": { "title": "FAQ", "desc": "Questions fréquentes et dépannage." },
+      "api": { "title": "Référence API", "desc": "Documentation complète des fonctions et classes." }
+    }
+  },
+  "article": {
+    "toc": "Sur cette page",
+    "lastReviewed": "Mis à jour le",
+    "edit": "Modifier sur GitHub",
+    "feedback": "Cette page vous a été utile ?",
+    "yes": "Oui",
+    "no": "Non"
+  }
+}

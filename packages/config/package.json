@@ -1,0 +1,13 @@
+{
+  "name": "@pico/config",
+  "version": "0.1.0",
+  "exports": {
+    "./tailwind":    "./tailwind/base.ts",
+    "./typescript/*": "./typescript/*.json",
+    "./eslint/*":    "./eslint/*.js"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "typescript":  "^5.4.0"
+  }
+}

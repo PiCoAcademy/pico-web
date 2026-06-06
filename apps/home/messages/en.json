@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "about": "About",
+    "contact": "Contact",
+    "switchLang": "FR"
+  },
+  "hero": {
+    "eyebrow": "PICO Group — Morocco",
+    "title": "From concept to production.",
+    "description": "We train the engineers of tomorrow, design custom embedded systems, and supply the hardware to make your projects happen.",
+    "ctaPrimary": "Request a quote",
+    "ctaSecondary": "Explore our products"
+  },
+  "units": {
+    "title": "Our business units",
+    "education": {
+      "name": "PICO Education",
+      "description": "Educational kits, tutorials and tools to teach electronics and programming.",
+      "cta": "Explore"
+    },
+    "industrial": {
+      "name": "PICO Industrial",
+      "description": "PCB design, embedded systems, industrial automation and electronic engineering.",
+      "cta": "Our solutions"
+    },
+    "academy": {
+      "name": "PICO Academy",
+      "description": "Certified online courses — from beginner to embedded engineer.",
+      "cta": "View courses"
+    },
+    "store": {
+      "name": "PICO Store",
+      "description": "Buy our kits and modules directly, shipped to Morocco and worldwide.",
+      "cta": "Shop"
+    },
+    "wiki": {
+      "name": "PICO Wiki",
+      "description": "Technical documentation, pinout sheets, libraries and reference guides.",
+      "cta": "Documentation"
+    }
+  },
+  "stats": {
+    "years": "years of experience",
+    "clients": "industrial clients",
+    "projects": "projects delivered",
+    "students": "students trained"
+  },
+  "trust": {
+    "title": "They trust us"
+  },
+  "contact": {
+    "eyebrow": "Let's talk about your project",
+    "title": "An idea? A need?",
+    "description": "Whether it's an industrial solution, a school kit order or a technical question, we respond within 48h.",
+    "cta": "Contact us"
+  },
+  "about": {
+    "eyebrow": "Our story",
+    "title": "A Moroccan group serving engineering.",
+    "p1": "PICO was born from a conviction: Morocco needs a local platform that trains, equips and supports its engineers, teachers and companies — in French, in Arabic, at local prices.",
+    "p2": "For over 7 years, we have combined expertise in embedded electronics, active pedagogy and direct hardware distribution to offer a complete ecosystem — from the Arduino kit in class to the industrial control system.",
+    "valuesTitle": "Our values",
+    "values": {
+      "precision": { "title": "Precision", "desc": "Real specs, kept deadlines, code that works." },
+      "pedagogy":  { "title": "Pedagogy", "desc": "Explain, document, train — not just deliver." },
+      "local":     { "title": "Local roots", "desc": "Moroccan by design, international by standard." }
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Write to us",
+    "description": "Fill in the form below, or email us directly at info@pico.ma.",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "sending": "Sending…",
+      "success": "Message sent! We'll reply within 48h.",
+      "error": "Error sending. Try again or write to info@pico.ma."
+    }
+  }
+}

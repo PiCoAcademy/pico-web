@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "solutions": "Solutions",
+    "projects": "Projets",
+    "blog": "Blog",
+    "wiki": "Wiki",
+    "courses": "Cours",
+    "store": "Boutique",
+    "contact": "Contact",
+    "rfq": "Demande de devis"
+  },
+  "cta": {
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous contacter",
+    "requestQuote": "Demander un devis",
+    "buyNow": "Acheter",
+    "addToCart": "Ajouter au panier",
+    "enroll": "S'inscrire",
+    "download": "Télécharger",
+    "viewAll": "Voir tout"
+  },
+  "footer": {
+    "allRights": "Tous droits réservés.",
+    "group": "PICO Group"
+  },
+  "status": {
+    "inStock": "En stock",
+    "outOfStock": "Épuisé",
+    "lowStock": "Stock limité",
+    "free": "Gratuit",
+    "loading": "Chargement…",
+    "error": "Une erreur est survenue"
+  },
+  "form": {
+    "required": "Requis",
+    "email": "Adresse e-mail",
+    "name": "Nom complet",
+    "company": "Entreprise",
+    "phone": "Téléphone",
+    "message": "Message",
+    "submit": "Envoyer",
+    "sending": "Envoi en cours…",
+    "success": "Message envoyé avec succès !",
+    "error": "Erreur lors de l'envoi. Réessayez."
+  },
+  "lang": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

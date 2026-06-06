@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "projects": "Projets",
+    "products": "Produits",
+    "blog": "Blog",
+    "rfqCta": "Demande de devis"
+  },
+  "hero": {
+    "eyebrow": "Ingénierie Industrielle au Maroc",
+    "headline": "Automatisez.\nOptimisez.\nPerformez.",
+    "sub": "PICO Industrial conçoit et déploie des systèmes d'automatisation sur mesure pour l'industrie marocaine — de l'atelier à la supervision.",
+    "ctaPrimary": "Demander un devis",
+    "ctaSecondary": "Voir nos projets"
+  },
+  "solutions": {
+    "title": "Nos Solutions",
+    "sub": "De la conception à la mise en service, nous couvrons tout le cycle de votre projet industriel.",
+    "items": {
+      "automation": {
+        "title": "Automatisation & API",
+        "desc": "Programmation d'automates Siemens, Schneider et Allen-Bradley. SCADA, HMI, communication industrielle."
+      },
+      "cnc": {
+        "title": "CNC & Usinage",
+        "desc": "Retrofitting de machines CNC, intégration LinuxCNC/MACH3, axes servo et broches haute vitesse."
+      },
+      "energy": {
+        "title": "Gestion de l'énergie",
+        "desc": "Monitoring énergétique, tableaux de bord en temps réel, réduction des consommations et coûts."
+      },
+      "iot": {
+        "title": "IoT Industriel",
+        "desc": "Capteurs connectés, passerelles MQTT/OPC-UA, dashboards Grafana, alertes SMS/email."
+      },
+      "textile": {
+        "title": "Textile & Confection",
+        "desc": "Supervision de lignes de production, comptage pièces, suivi rendement et qualité en temps réel."
+      },
+      "lpg": {
+        "title": "GPL & Sécurité",
+        "desc": "Systèmes de détection gaz, vannes motorisées, alarmes certifiées et télégestion de stations GPL."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projets livrés",
+    "clients": "Clients actifs",
+    "sectors": "Secteurs couverts",
+    "uptime": "Disponibilité"
+  },
+  "projects": {
+    "title": "Projets Réalisés",
+    "sub": "Quelques exemples de ce que nous avons accompli pour nos clients.",
+    "cta": "Voir tous les projets",
+    "empty": "Les études de cas arrivent bientôt."
+  },
+  "rfq": {
+    "title": "Demande de Devis",
+    "sub": "Décrivez votre projet — nous revenons vers vous sous 24h.",
+    "step1": {
+      "title": "Votre entreprise",
+      "company": "Nom de la société",
+      "sector": "Secteur d'activité",
+      "name": "Votre nom",
+      "email": "Email professionnel",
+      "phone": "Téléphone"
+    },
+    "step2": {
+      "title": "Le projet",
+      "type": "Type de projet",
+      "types": {
+        "automation": "Automatisation / API",
+        "cnc": "Rénovation CNC",
+        "iot": "IoT / Supervision",
+        "energy": "Énergie / Monitoring",
+        "other": "Autre"
+      },
+      "brief": "Description du besoin",
+      "briefPlaceholder": "Décrivez votre projet : contexte, machines concernées, objectifs…"
+    },
+    "step3": {
+      "title": "Budget & Calendrier",
+      "budget": "Budget estimé (MAD)",
+      "budgets": {
+        "lt50k": "< 50 000 MAD",
+        "50k_150k": "50 000 – 150 000 MAD",
+        "150k_500k": "150 000 – 500 000 MAD",
+        "gt500k": "> 500 000 MAD",
+        "unknown": "Non défini"
+      },
+      "timeline": "Délai souhaité",
+      "timelines": {
+        "urgent": "Urgent (< 1 mois)",
+        "short": "Court terme (1–3 mois)",
+        "medium": "Moyen terme (3–6 mois)",
+        "long": "Long terme (> 6 mois)"
+      }
+    },
+    "step4": {
+      "title": "Récapitulatif",
+      "submit": "Envoyer ma demande",
+      "sending": "Envoi en cours…"
+    },
+    "success": "Votre demande a bien été envoyée ! Notre équipe vous contacte sous 24h.",
+    "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter directement.",
+    "next": "Suivant",
+    "back": "Retour",
+    "stepOf": "Étape {current} sur {total}"
+  },
+  "blog": {
+    "title": "Articles & Ressources",
+    "sub": "Nos ingénieurs partagent leur expertise en automatisation industrielle.",
+    "readMore": "Lire l'article",
+    "empty": "Les articles arrivent bientôt."
+  },
+  "contact": {
+    "title": "Parlons de votre projet",
+    "sub": "Remplissez le formulaire ou appelez-nous directement.",
+    "cta": "Démarrer un projet"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "projects": "Projects",
+    "products": "Products",
+    "blog": "Blog",
+    "rfqCta": "Request a Quote"
+  },
+  "hero": {
+    "eyebrow": "Industrial Engineering in Morocco",
+    "headline": "Automate.\nOptimize.\nPerform.",
+    "sub": "PICO Industrial designs and deploys custom automation systems for Moroccan industry — from the shop floor to supervision.",
+    "ctaPrimary": "Request a Quote",
+    "ctaSecondary": "View Our Projects"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "sub": "From design to commissioning, we cover the full cycle of your industrial project.",
+    "items": {
+      "automation": {
+        "title": "Automation & PLCs",
+        "desc": "Programming of Siemens, Schneider and Allen-Bradley PLCs. SCADA, HMI, industrial communication."
+      },
+      "cnc": {
+        "title": "CNC & Machining",
+        "desc": "CNC machine retrofitting, LinuxCNC/MACH3 integration, servo axes and high-speed spindles."
+      },
+      "energy": {
+        "title": "Energy Management",
+        "desc": "Energy monitoring, real-time dashboards, reduction of consumption and costs."
+      },
+      "iot": {
+        "title": "Industrial IoT",
+        "desc": "Connected sensors, MQTT/OPC-UA gateways, Grafana dashboards, SMS/email alerts."
+      },
+      "textile": {
+        "title": "Textile & Garment",
+        "desc": "Production line supervision, piece counting, real-time yield and quality tracking."
+      },
+      "lpg": {
+        "title": "LPG & Safety",
+        "desc": "Gas detection systems, motorized valves, certified alarms and LPG station remote management."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Projects Delivered",
+    "clients": "Active Clients",
+    "sectors": "Sectors Covered",
+    "uptime": "Uptime"
+  },
+  "projects": {
+    "title": "Completed Projects",
+    "sub": "A few examples of what we have accomplished for our clients.",
+    "cta": "View All Projects",
+    "empty": "Case studies coming soon."
+  },
+  "rfq": {
+    "title": "Request a Quote",
+    "sub": "Describe your project — we get back to you within 24h.",
+    "step1": {
+      "title": "Your Company",
+      "company": "Company Name",
+      "sector": "Industry Sector",
+      "name": "Your Name",
+      "email": "Work Email",
+      "phone": "Phone"
+    },
+    "step2": {
+      "title": "The Project",
+      "type": "Project Type",
+      "types": {
+        "automation": "Automation / PLC",
+        "cnc": "CNC Retrofit",
+        "iot": "IoT / Supervision",
+        "energy": "Energy / Monitoring",
+        "other": "Other"
+      },
+      "brief": "Project Description",
+      "briefPlaceholder": "Describe your project: context, machines involved, objectives…"
+    },
+    "step3": {
+      "title": "Budget & Timeline",
+      "budget": "Estimated Budget (MAD)",
+      "budgets": {
+        "lt50k": "< 50,000 MAD",
+        "50k_150k": "50,000 – 150,000 MAD",
+        "150k_500k": "150,000 – 500,000 MAD",
+        "gt500k": "> 500,000 MAD",
+        "unknown": "Not defined"
+      },
+      "timeline": "Desired Timeline",
+      "timelines": {
+        "urgent": "Urgent (< 1 month)",
+        "short": "Short term (1–3 months)",
+        "medium": "Medium term (3–6 months)",
+        "long": "Long term (> 6 months)"
+      }
+    },
+    "step4": {
+      "title": "Summary",
+      "submit": "Send My Request",
+      "sending": "Sending…"
+    },
+    "success": "Your request has been sent! Our team will contact you within 24h.",
+    "error": "An error occurred. Please try again or contact us directly.",
+    "next": "Next",
+    "back": "Back",
+    "stepOf": "Step {current} of {total}"
+  },
+  "blog": {
+    "title": "Articles & Resources",
+    "sub": "Our engineers share their expertise in industrial automation.",
+    "readMore": "Read Article",
+    "empty": "Articles coming soon."
+  },
+  "contact": {
+    "title": "Let's Talk About Your Project",
+    "sub": "Fill out the form or call us directly.",
+    "cta": "Start a Project"
+  }
+}
