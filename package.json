@@ -14,6 +14,9 @@
     "format":    "prettier --write \"**/*.{ts,tsx,md,json}\"",
     "test":      "turbo test"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "sharp", "unrs-resolver", "@swc/core"]
+  },
   "devDependencies": {
     "turbo":       "^2.0.0",
     "typescript":  "^5.4.0",
