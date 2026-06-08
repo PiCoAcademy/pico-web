@@ -4,7 +4,7 @@
   "products": { "title": "Our Products", "sub": "Educational kits, industrial modules and accessories.", "filter": "Filter", "sort": "Sort", "addToCart": "Add to Cart", "outOfStock": "Out of Stock", "empty": "No products found." },
   "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "inStock": "In Stock", "lowStock": "Low Stock", "outOfStock": "Out of Stock", "qty": "Quantity", "specs": "Specifications", "reviews": "Reviews", "related": "You Might Also Like" },
   "cart": { "title": "Your Cart", "empty": "Your cart is empty.", "subtotal": "Subtotal", "shipping": "Shipping", "free": "Free", "total": "Total", "checkout": "Proceed to Checkout", "continueShopping": "Continue Shopping" },
-  "checkout": { "title": "Checkout", "shipping": "Shipping Address", "firstName": "First Name", "lastName": "Last Name", "address": "Address", "city": "City", "phone": "Phone", "email": "Email", "payment": "Payment", "placeOrder": "Place Order", "processing": "Processing…" },
+  "checkout": { "title": "Checkout", "shipping": "Shipping Address", "firstName": "First Name", "lastName": "Last Name", "address": "Address", "city": "City", "phone": "Phone", "email": "Email", "payment": "Payment", "payBank": "Bank transfer", "payCod": "Cash on delivery", "payNote": "Our team will contact you to confirm and arrange payment.", "placeOrder": "Place Order", "processing": "Processing…" },
   "success": { "title": "Order Confirmed!", "sub": "You will receive a confirmation email at the address provided.", "orderNumber": "Order Number", "trackOrder": "Track My Order", "continueShopping": "Continue Shopping" },
   "account": { "orders": "My Orders", "profile": "My Profile", "logout": "Sign Out" }
 }

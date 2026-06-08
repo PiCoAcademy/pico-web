@@ -99,15 +99,22 @@ export default function CheckoutPage() {
               </div>
             </div>
 
-            {/* Payment placeholder */}
+            {/* Payment */}
             <div className="rounded-card border border-[var(--border)] bg-bg-card p-6">
               <h2 className="mb-5 font-display text-h2 font-bold text-text-primary">
                 {t('checkout.payment')}
               </h2>
-              <div className="rounded-btn border border-dashed border-[var(--border)] p-6 text-center">
-                <p className="text-sm text-text-muted">
-                  Stripe / CMI intégration — virement bancaire accepté
-                </p>
+              <div className="flex flex-col gap-3">
+                {[
+                  { icon: '🏦', label: t('checkout.payBank') },
+                  { icon: '💵', label: t('checkout.payCod') },
+                ].map(({ icon, label }) => (
+                  <div key={label} className="flex items-center gap-3 rounded-btn border border-[var(--accent-bd)] bg-[var(--accent-bg)] px-4 py-3 text-sm text-text-primary">
+                    <span className="text-xl">{icon}</span>
+                    <span>{label}</span>
+                  </div>
+                ))}
+                <p className="mt-1 text-xs text-text-muted">{t('checkout.payNote')}</p>
               </div>
             </div>
           </div>
